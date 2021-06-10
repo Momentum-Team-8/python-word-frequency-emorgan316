@@ -15,11 +15,11 @@ def clean_text(file):
     text = praise.lower
 
 
-# def print_word_freq(file):
-#     """Read in `file` and print out the frequency of words in that file."""
-#     readfile()
+def print_word_freq(file):
+    """Read in `file` and print out the frequency of words in that file."""
+    readfile()
 
-#     pass
+    pass
 
 
 
